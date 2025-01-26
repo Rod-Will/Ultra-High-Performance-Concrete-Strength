@@ -9,6 +9,8 @@ This repository contains a Python-based machine learning implementation for pred
 - Evaluation of models using various performance metrics such as RMSE, MAE, R², and MAPE.
 - Cross-validation and performance comparison of multiple models.
 - Model optimization and saving the best model for future predictions.
+  
+![GradientBoosting_cross_validation_plot](https://github.com/user-attachments/assets/33a03cd2-3048-41ae-b6de-baa0234b249f)
 
 ## Technologies Used
 
@@ -47,8 +49,6 @@ output_02/
 2. Run the main Python script (`model_training.py`) to preprocess the data, optimize hyperparameters using PSO, and train various regression models.
 3. The optimized models and performance metrics will be saved in the `output_02/` folder.
 
-![GUI_03](https://github.com/user-attachments/assets/dc187052-4ee9-4016-9b57-6cfd0668d70a)
-
 ## Results
 
 The model evaluates different algorithms such as:
@@ -62,6 +62,8 @@ Each model is trained and optimized, and performance metrics including Root Mean
 
 ### Performance Metrics Comparison
 The performance of all models is compared using RMSE and visualized in a bar chart.
+
+![model_performance_comparison](https://github.com/user-attachments/assets/6bbcb7f5-b355-4971-a65a-5670e053909d)
 
 ## Acknowledgments
 
